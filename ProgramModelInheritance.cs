@@ -11,7 +11,6 @@ namespace ModulPraktikum1
             mobil1.MatikanMesin();
             Mobil mobil2 = new Avanza();
             mobil2.ban = new Bridgestone();
-            //mobil2.NyalakanLampu();
 
             Civic civic1 = new Civic();
             civic1.VtecKickedIn();
